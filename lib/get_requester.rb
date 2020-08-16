@@ -3,4 +3,5 @@ require 'open-uri'
 require 'json'
 
 class GetRequester
+  URL = 
 end     #class end
